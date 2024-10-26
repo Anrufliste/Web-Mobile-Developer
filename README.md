@@ -18,7 +18,7 @@ Nach Jahren als treuer Leser entschied ich mich Anfang 2018 zum Schreiben eigene
 Zu dieser Zeit begeisterte ich mich für die Alexa Skill Entwicklung, aber es gab kaum Material darüber.
 So musste ich viel selber experimentieren und was lag da näher, als die gewonnen Erkenntnisse auch zu veröffentlichen.
 So entstanden für 8 Ausgaben der Web & Mobile Developer insgesamt 9 Artikel. Leider wurden diese nicht mit in das Archiv der dotnetpro übernommen.
-Aber dankenswerterweise hat mir [Fernando Schneider, der Chefredakteuer der dotnetpro](http://https://developer-media.de/team/), die Erlaubnis gegeben, die PDF Version meiner Artikel in diesem GitHub Repository zu veröffentlichen, sodass ich diese in neuen Arbeiten weiterhin verlinken kann.
+Aber dankenswerterweise hat mir [Fernando Schneider, der Chefredakteuer der dotnetpro](https://www.dotnetpro.de/kontakt-und-impressum-919485.html), die Erlaubnis gegeben, die PDF Version meiner Artikel in diesem GitHub Repository zu veröffentlichen, sodass ich diese in neuen Arbeiten weiterhin verlinken kann.
 <br clear="left"/>
 ## 04/2018 - Ein Skill-Backend mit PHP
 [<img src="img/wmd_cover_0418_100px.png" align="left" width="100px" style="padding-right: 10px"/>](img/wmd_cover_0418.png)
